@@ -2,19 +2,19 @@
 
 ### Hi there, I'm <a> Shruti Nahar </a>
 
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-lodha-b2389319b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shruti-nahar-70a917213/)
 
 
-<img align="right" alt="GIF" src="https://github.com/shubhamlodha21/shubhamlodha21/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/shrutinahar14/shrutinahar14/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
-- 📄 **Institute / University : Im A Student Of BBA(CA) In BMCC (Autonomus)**
+- 📄 **Institute / University : Im A Student Of BE(comp) In BVCOEW**
 
-- 📫 **How To Reach Me : Mail Id : shubhamlodha2111@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shubham-lodha-b2389319b/)**
+- 📫 **How To Reach Me : Mail Id : shrutinahar13@gmail.com, [LinkedIn Profile](https://linkedin.com/in/shruti-nahar-70a917213/)**
 
 - ⚡ **Fun Fact : Interested In Learning New Things,  Playing Outdoor games.**
-</br>-->
+</br>
 
 
 
